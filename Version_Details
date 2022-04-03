@@ -1,0 +1,21 @@
+Mini版配置详情
+Applications:
+luci-app-adbyby-plus                     #广告屏蔽大师Plus +
+luci-app-arpbind                         #IP/MAC绑定
+luci-app-autoreboot                      #支持计划重启
+luci-app-cpufreq                         #CPU调控器
+luci-app-diskman                         #磁盘管理工具
+luci-app-filetransfer                    #文件传输
+luci-app-firewall                        #防火墙
+luci-app-nlbwmon                         #网络监视器
+luci-app-ntpc                            #NTP时间同步服务器
+luci-app-passwall                        #科学上网
+luci-app-pushbot                         #全能推送
+luci-app-ramfree                         #内存释放
+luci-app-samba                           #网络共享
+luci-app-ttyd                            #网页终端
+luci-app-turboacc                        #网络加速
+luci-app-vsftpd                          #FTP服务器
+luci-app-wrtbwmon                        #实时流量监测
+Themes:
+luci-theme-bootstrap
