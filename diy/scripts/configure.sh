@@ -7,7 +7,7 @@ popd
 #Add passwall依赖
 mkdir package/small
 pushd package/small
-git clone --depth=1 https://github.com/kenzok8/small
+git clone --depth=1 https://github.com/8680/small
 popd
 
 #Add pushbot全能推送
