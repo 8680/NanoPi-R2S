@@ -1,12 +1,10 @@
 #Add Packages
-mkdir package/openwrt-packages
-pushd package/openwrt-packages
+pushd package
 git clone --depth=1 https://github.com/kenzok8/openwrt-packages
 popd
 
 #Add passwall依赖
-mkdir package/small
-pushd package/small
+pushd package
 git clone --depth=1 https://github.com/8680/small
 popd
 
