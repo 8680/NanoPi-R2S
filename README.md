@@ -20,4 +20,4 @@
 - [immortalwrt 的 OpenWrt 项目](https://github.com/immortalwrt/immortalwrt)
 - [friendlyarm 的 OpenWrt 项目](https://github.com/friendlyarm/friendlywrt)
 - [kenzok8 的 openwrt-packages 项目](https://github.com/kenzok8/openwrt-packages)
-- [kenzok8 的 passwall依赖 项目](https://github.com/kenzok8/small)
+- [xiaorouji 的 passwall依赖 项目](https://github.com/xiaorouji/openwrt-passwall)
