@@ -13,7 +13,7 @@ on:
 env:
   REPO_URL: https://github.com/8680/r2s
   REPO_BRANCH: master
-  CONFIG_FILE: diy/configs/Mini.config
+  CONFIG_FILE: diy/configs/Deluxe.config
   DIY_SH: diy/scripts/configure.sh
   DIY_SH2: diy/scripts/P.sh
   UPLOAD_BIN_DIR: false
