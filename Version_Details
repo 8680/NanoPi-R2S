@@ -1,18 +1,14 @@
-豪华版配置详情
+稳定版配置详情
 Applications:
 luci-app-accesscontrol                   #访问时间控制
-luci-app-adblock                         #ADB广告过滤
 luci-app-adbyby-plus                     #广告屏蔽大师Plus +
 luci-app-adguardhome                     #AdGuard home广告过滤
 luci-app-arpbind                         #IP/MAC绑定
 luci-app-autoreboot                      #支持计划重启
-luci-app-airplay2                        #Apple AirPlay2 无损音频接收服务器
 luci-app-aliyundrive-webdav              #阿里云盘 WebDAV 服务
-luci-app-aliyundrive-fuse                #阿里云盘 FUSE 磁盘挂载
 luci-app-aria2                           #Aria2下载工具
 luci-app-argonne-config                  #argonne主题配置插件
 luci-app-baidupcs-web                    #百度网盘管理
-luci-app-bypass                          #Bypass科学上网
 luci-app-cpufreq                         #CPU调控器
 luci-app-ddns                            #动态域名 DNS
 luci-app-diskman                         #磁盘管理工具
@@ -32,24 +28,19 @@ luci-app-ntpc                            #NTP时间同步服务器
 luci-app-passwall                        #科学上网
 luci-app-pushbot                         #全能推送
 luci-app-qbittorrent                     #BT下载工具
-luci-app-qos                             #流量服务质量(QoS)流控
 luci-app-ramfree                         #内存释放
 luci-app-samba                           #网络共享
-luci-app-shairplay                       #支持AirPlay功能
 luci-app-sqm                             #流量智能队列管理
 luci-app-ssr-plus                        #SSR科学上网Plus+
 luci-app-transmission                    #BT下载工具
 luci-app-ttyd                            #网页终端
 luci-app-turboacc                        #网络加速
 luci-app-unblockmusic                    #解锁网易云灰色歌曲
-luci-app-upnp                            #通用即插即用UPnP
-luci-app-uugamebooster                   #UU网游加速器
 luci-app-vssr                            #VSSR科学上网
 luci-app-vsftpd                          #FTP服务器
 luci-app-watchcat                        #断网检测功能与定时重启
 luci-app-wol                             #WOL网络唤醒
 luci-app-wrtbwmon                        #实时流量监测
-luci-app-xlnetacc                        #迅雷快鸟
 luci-app-zerotier                        #ZeroTier内网穿透
 Themes:
 luci-theme-bootstrap
