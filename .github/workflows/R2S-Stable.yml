@@ -1,4 +1,4 @@
-name: R2S-Deluxe
+name: R2S-Stable
 
 on:
   repository_dispatch:
@@ -12,7 +12,7 @@ on:
 env:
   REPO_URL: https://github.com/8680/r2s
   REPO_BRANCH: master
-  CONFIG_FILE: diy/configs/Deluxe.config
+  CONFIG_FILE: diy/configs/Stable.config
   DIY_SH: diy/scripts/configure.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
@@ -145,7 +145,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        name: ${{ steps.tag.outputs.release_date }} NanoPi-R2S-豪华版
+        name: ${{ steps.tag.outputs.release_date }} NanoPi-R2S-稳定版
         tag_name: ${{ steps.tag.outputs.release_tag }}
         body_path: release.txt
         files: ${{ env.FIRMWARE }}/*
