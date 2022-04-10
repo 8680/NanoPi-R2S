@@ -8,6 +8,8 @@
 
 
 ## 特色：
+![r2s](https://user-images.githubusercontent.com/85273405/162614369-49be5df8-a4c5-4469-8cf9-d37ca800c4b5.png)
+
 **[版本详情](https://github.com/8680/NanoPi-R2S/blob/master/Version_Details)**
 
 ## 特别感谢以下项目/厂商：
