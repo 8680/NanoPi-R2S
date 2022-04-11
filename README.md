@@ -134,3 +134,5 @@
 - [friendlyarm 的 OpenWrt 项目](https://github.com/friendlyarm/friendlywrt)
 - [kenzok8 的 openwrt-packages 项目](https://github.com/kenzok8/openwrt-packages)
 - [xiaorouji 的 passwall依赖 项目](https://github.com/xiaorouji/openwrt-passwall)
+
+[![Page Views Count](https://badges.toozhao.com/badges/01G0B34TT3J0BDFJ37THWQSEG4/green.svg)](https://badges.toozhao.com/stats/01G0B34TT3J0BDFJ37THWQSEG4 "Get your own page views count badge on badges.toozhao.com")
