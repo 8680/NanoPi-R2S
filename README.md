@@ -48,6 +48,7 @@
 | luci-app-qbittorrent  | BT下载工具 |
 | luci-app-ramfree  | 内存释放 |
 | luci-app-samba  | 网络共享 |
+| luci-app-smartdns | 本地DNS服务器 |
 | luci-app-sqm  | 流量智能队列管理 |
 | luci-app-ssr-plus  | SSR科学上网Plus+ |
 | luci-app-transmission  | BT下载工具 |
@@ -100,6 +101,7 @@
 | ✔  | ✘ |
 | ✔  | ✔ |
 | ✔  | ✔ |
+| ✔  | ✘ |
 | ✔  | ✘ |
 | ✔  | ✘ |
 | ✔  | ✘ |
