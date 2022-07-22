@@ -11,7 +11,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/8680/rrrr
+  REPO_URL: https://github.com/8680/r2s
   REPO_BRANCH: master
   CONFIG_FILE: diy/configs/Stable.config
   DIY_SH: diy/scripts/configure.sh
